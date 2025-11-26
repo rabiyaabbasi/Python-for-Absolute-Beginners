@@ -1,0 +1,9 @@
+---
+
+## `requirements.txt`
+
+Save this as `requirements.txt` in the root of the repo:
+
+```text
+ipykernel
+jupyter
